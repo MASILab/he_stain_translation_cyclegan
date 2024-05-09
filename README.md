@@ -6,8 +6,8 @@
 "Data-driven Nucleus Subclassification on Colon H&E using Style-transferred Digital Pathology"**
 
 The purpose of this repo is to 
-1) Use pretrained cyclegans to convert the public CoNIC 2022 data into the virtual H&E style used in the manuscript
-2) Be an easy starting place to train a new cyclegan for style transfer of H&E staining
+1) Use pretrained cyclegans to convert the public CoNIC 2022 data into the virtual H&E style used in the manuscript (there are 5 cyclegan weights, one for each CoNIC site)
+3) Be an easy starting place to train a new cyclegan for style transfer of H&E staining
 
 This enables H&E stain translation while limiting nucleus movement by incorporating the nucleus segmentation mask.
 
