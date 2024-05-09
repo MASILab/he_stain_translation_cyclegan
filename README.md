@@ -61,7 +61,7 @@ There are 5 weights, 1 for each CoNIC site
 The weights are publicly available here: **TODO**
 
 # Training data
-trainA is CoNIC patches (formatted as above) and trainB is virtual H&E patches.
+trainA is CoNIC patches (formatted as above) and trainB is virtual H&E patches (RGB PNGs).
 
 If you are in MASI lab, 20,000 virtual H&E patches can be found here: ```/nfs/masi/remedilw/paper_journal_nucleus_subclassification/style_transfer_he/virtual_he_patches```
 
