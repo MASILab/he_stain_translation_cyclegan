@@ -70,7 +70,7 @@ If you are not in MASI lab, the virtual H&E data is private and not accessible t
 # Example Training script
 - **MASI Lab Note: Please do not train like this. The data needs to be moved locally for actual training. This script will slow down the network. It is just an example for how to set up data paths and flags to train the model. This just shows that the code is functional for training.**
 
-```python rHE-to-vHE-pytorch-CycleGAN/example_train.py```
+```bash rHE-to-vHE-pytorch-CycleGAN/example_train.py```
 
 If you are in MASI lab, the example training script will work automatically.
 Please note that there is very little data in trainB, and this needs to be replenished with way more patches to train an effective model.
