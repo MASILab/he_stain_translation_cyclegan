@@ -1,6 +1,6 @@
 # Style transfer to transform H&E stain style
 
-<img width="444" alt="image" src="https://github.com/MASILab/he_stain_translation_cyclegan_MASI_INTERNAL/assets/32654540/9da37ff4-95ba-418b-8f56-97329a1fd477">
+[View example.txt](./stain_example.png)
 
 **This repo is for performing H&E style transfer associated with the manuscript titled:
 "Data-driven Nucleus Subclassification on Colon H&E using Style-transferred Digital Pathology"**
