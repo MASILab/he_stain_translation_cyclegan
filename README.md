@@ -38,7 +38,7 @@ and testB can be dummy data
 To better understand how data paths and testA and testB work, please see the original repo 
 we based this on: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix 
 
-<img width="1398" alt="image" src="https://github.com/MASILab/he_stain_translation_cyclegan_MASI_INTERNAL/assets/32654540/55277249-fea9-4439-9b1f-a76091b9cf98">
+![Description of Image](./diagram.png)
 
 # Inference on CoNIC patches
 Use this file to transfer CoNIC H&E patches (reformatted as above) to the virtual H&E style staining.
