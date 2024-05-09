@@ -1,4 +1,4 @@
-name: airlab
+name: stain_transform_env
 channels:
   - mrtrix3
   - anaconda
