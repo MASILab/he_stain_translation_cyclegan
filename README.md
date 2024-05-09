@@ -1,6 +1,6 @@
 # Style transfer to transform H&E stain style
 
-(./stain_example.png)
+![Description of Image](./stain_example.png)
 
 **This repo is for performing H&E style transfer associated with the manuscript titled:
 "Data-driven Nucleus Subclassification on Colon H&E using Style-transferred Digital Pathology"**
