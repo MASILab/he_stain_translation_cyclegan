@@ -2,6 +2,9 @@
 
 ![Description of Image](./stain_example.png)
 
+# Note: 
+**Pretrained weights are currently not public. They are only available to members of the MASI lab.**
+
 **This repo is for performing H&E style transfer associated with the manuscript titled:
 "Data-driven Nucleus Subclassification on Colon H&E using Style-transferred Digital Pathology"**
 
@@ -58,7 +61,9 @@ Please ignore those dumy outputs.
 # Pretrained weights
 There are 5 weights, 1 for each CoNIC site
 
-The weights are publicly available here: **TODO**
+**MASI LAB:** ```/nfs/masi/remedilw/paper_journal_nucleus_subclassification/style_transfer_he/weights```
+
+**Public:** Not currently available
 
 # Training data
 trainA is CoNIC patches (formatted as above) and trainB is virtual H&E patches (RGB PNGs).
